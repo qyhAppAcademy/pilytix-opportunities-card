@@ -1,0 +1,11 @@
+.sunburst-chart-tooltip {
+  opacity: 0;
+  background-color: white;
+  border: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  padding: 5px;
+  position: relative;
+  display: inline-block;
+  overflow: scroll;
+}

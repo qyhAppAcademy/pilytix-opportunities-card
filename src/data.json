@@ -1,0 +1,26 @@
+{
+  "name": "pilytixFactorsIncreasingWin",
+  "children": [
+    {
+      "name": "Weak Positive",
+      "children": [
+        {
+          "name": "Product",
+          "value": 1
+        },
+        {
+          "name": "Age",
+          "value": 1
+        },
+        {
+          "name": "Distance to Stadium",
+          "value": 1
+        },
+        {
+          "name": "Last Purchase Date",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}

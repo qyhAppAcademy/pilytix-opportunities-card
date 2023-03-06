@@ -1,0 +1,42 @@
+{
+  "name": "pilytix-take-home-assignment-qiaoyanghan",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/react": "11.10.5",
+    "@emotion/styled": "11.10.5",
+    "@mui/icons-material": "5.11.9",
+    "@mui/material": "5.11.7",
+    "@types/d3": "7.4.0",
+    "chart.js": "4.2.1",
+    "chartjs-plugin-zoom": "2.0.0",
+    "d3": "7.8.2",
+    "react": "18.2.0",
+    "react-chartjs-2": "5.2.0",
+    "react-circular-progressbar": "2.1.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "4.0.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.10",
+    "@vitejs/plugin-react": "3.1.0",
+    "typescript": "4.9.5",
+    "vite": "4.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start vite",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
